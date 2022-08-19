@@ -1,2 +1,2 @@
 # To-Do-List
-Lista de tarefas feita integrando Html, CSS e JavaScript. Curso Digital Inovation One.
+Lista de tarefas feita no curos da plataforma Digital Inovation One integrando Html, CSS e JavaScript. 
